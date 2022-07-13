@@ -72,3 +72,12 @@ main{
     display:flex ;
     justify-content: space-around;
 }
+
+.rate-evaluation 
+{
+    display: flex;
+}
+
+hr{
+    margin: 20px;
+}
