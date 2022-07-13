@@ -1,3 +1,9 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: content-box;
+}
+
 .header
 {
     display: flex;
@@ -22,4 +28,47 @@ main{
 #trybewarts-forms-logo
 {
     height: 500px;
+}
+
+.nome-sobrenome{
+    display: flex;
+}
+
+.email-casa{
+    display: flex;
+}
+
+#label-family{
+    display: flex;
+    flex-direction: column;
+}
+
+.radios{
+    align-self: flex-start;
+}
+
+.radio-form{
+    display: flex;
+    margin-top: 10px;
+}
+
+.radio-form p{
+    align-self: flex-start;
+    margin-left: 10px;
+}
+
+#label-content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#ola{
+    display:flex ;
+    justify-content: space-around;
+}
+
+#ola2{
+    display:flex ;
+    justify-content: space-around;
 }
