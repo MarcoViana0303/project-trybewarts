@@ -23,6 +23,9 @@ Entre no diretório do projeto
   cd project-trybewarts
 ```
 
+## Ilustração do projeto
+![Projeto Trybewarts](./Projeto-trybewarts.png)
+
 
 ## Aprendizados
 
