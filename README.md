@@ -24,7 +24,7 @@ Entre no diretório do projeto
 ```
 
 ## Ilustração do projeto
-![Projeto Trybewarts](./Projeto-trybewarts.png)
+![Projeto Trybewarts](./Project-trybewarts.png)
 
 
 ## Aprendizados
